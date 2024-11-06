@@ -1,7 +1,7 @@
 # Project Log
 
 ## Purpose
-The project log is a useful aid in helping to manage the project. The log will include entries for each week of project-related activity.  It details events or facts that occur in the project, providing more details on the things that are being done.  It contains only historical information; it contains facts about the project but does not include reflection.
+The project log is a useful aid in helping to manage the project. The log includes entries for each week of project-related activity.  It details events or facts that occur in the project, providing more details on the things that are being done.  It contains only historical information; it contains facts about the project but does not include reflection.
 
 It provides:  
 - a reminder of how the project develops; this is useful when writing assignments  
