@@ -16,3 +16,6 @@
 
 ## Common Errors and Fixes
 Any issues that might arise with steps and troubleshooting tips.
+
+***  
+[Home](../)
