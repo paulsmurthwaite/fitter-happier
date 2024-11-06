@@ -5,7 +5,7 @@ A brief summary of your project goals and main components.
 
 ## Table of Contents
 - [Configuration](config/index.md)
-- [Logs](logs/index.md)
+- [Project Logs](logs/index.md)
 - [Procedures](procedures/index.md)
 
 ## Current Status
