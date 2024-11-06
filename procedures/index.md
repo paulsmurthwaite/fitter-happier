@@ -7,4 +7,4 @@
 - [Install and Configure Nessus Essentials](proc-nessus.md)
 
 ## OpenVAS
-- [Install and Configure OPenVAS](proc-openvas.md)
+- [Install and Configure OpenVAS](proc-openvas.md)
