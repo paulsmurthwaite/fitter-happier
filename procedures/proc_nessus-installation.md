@@ -1,5 +1,7 @@
 # Nessus Essentials
 
+Nessus: https://medium.com/@sapphireinfosec/installing-and-setting-up-nessus-on-kali-linux-2023-4-90a960a6d20f
+
 https://www.tenable.com/products/nessus/nessus-essentials
 Register for Nessus Essentials
 
