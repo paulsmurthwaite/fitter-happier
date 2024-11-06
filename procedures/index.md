@@ -18,7 +18,7 @@ Each document includes:
 - [Install and Configure Nessus Essentials](proc-nessus.md)
 
 ### OpenVAS
-- [Install and Configure OpenVAS](proc-openvas.md)
+- [Install and Configure Greenbone Vulnerability Management](proc-openvas.md)
 
 ***  
 [Home](../)
