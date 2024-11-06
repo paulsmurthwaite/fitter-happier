@@ -1,12 +1,14 @@
-# Project Title
+# TM470 The Computing and IT Project
 
 ## Project Overview
-A brief summary of your project goals and main components.
+The Computing and IT project module is the capstone module for Open University computing and IT degrees. It offers practical experience of independent learning and reflective practice. It applies advanced principles and techniques to solve a defined problem and includes a write up of experience and findings in a substantial report. The topic is chosen then the project is conducted and written up with the advice and guidance of a supervisor.
+
+The repository contains the weekly project log files, documentation, and configuration files that support the production of the final project report.  It does not contain the report itself, or any guidance on the structure and production of the assignments submissions related to the module.
 
 ## Table of Contents
-- [Configuration](config/index.md)
 - [Project Log](logs/index.md)
+- [Configuration](config/index.md)
 - [Procedures](procedures/index.md)
 
 ## Current Status
-A quick note on the latest project progress or what you’re actively working on.
+In Progress.
