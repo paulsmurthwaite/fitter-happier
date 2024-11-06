@@ -13,7 +13,7 @@ Confirm
 VPN > OpenVPN > Wizards
 Type of Server > Local User Access
 
-## Creating a Certificate Authority
+### Creating a Certificate Authority
 
 Create new Certificate Authority > Descriptive Name: Lab VPN CA Certificate
 Country Code: GB
@@ -22,7 +22,7 @@ City: <insert>
 Organisation: <insert>
 Add new CA
 
-## Create a Server Certificate
+### Create a Server Certificate
 
 Add new Certificate
 Descriptive Name: VPN Server Certificate
@@ -32,7 +32,7 @@ City: <insert>
 Organisation: <insert>
 Create new Certificate
 
-## General OpenVPN Server Information
+### General OpenVPN Server Information
 
 Description: Lab VPN Server
 Protocol: UDP on IPv4 only
@@ -59,7 +59,7 @@ DNS Default Domain: lab.internal
 DNS Server 1: 10.0.0.1
 Next
 
-## Firewall Rules
+### Firewall Rules
 
 Firewall Rule > Enabled
 OpenVPN Rule > Enabled
