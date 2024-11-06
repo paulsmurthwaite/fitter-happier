@@ -3,10 +3,13 @@
 ## Purpose
 
 ## Step-by-Step Instructions
-- [1: Download Software](#step-1-download-software)
-- [2: Install Software](#step-2-install-software)
-- [3: Configure Software](#step-3-configure-software)
-- [4: Common Errors and Fixes](#common-errors-and-fixes)
+- [Install and Configure Nessus Essentials](#install-and-configure-nessus-essentials)
+  - [Purpose](#purpose)
+  - [Step-by-Step Instructions](#step-by-step-instructions)
+    - [Step 1: Download Software](#step-1-download-software)
+    - [Step 2: Install Software](#step-2-install-software)
+    - [Step 3: Configure Software](#step-3-configure-software)
+  - [Common Errors and Fixes](#common-errors-and-fixes)
 
 ### Step 1: Download Software
 
@@ -17,5 +20,5 @@
 ## Common Errors and Fixes
 Any issues that might arise with steps and troubleshooting tips.
 
-***  
-[Home](../procedures/index.md)
+***
+[Home](../)|[Procedures](../procedures/index.md)
