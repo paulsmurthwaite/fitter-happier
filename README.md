@@ -11,4 +11,4 @@ This repository contains the weekly project log files, documentation, and config
 - [Procedures](procedures/index.md)
 
 ## Current Status
-In Progress.
+November 2024: In Progress.
