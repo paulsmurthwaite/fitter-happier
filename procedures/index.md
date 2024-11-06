@@ -1,5 +1,5 @@
 # Procedures
 
 ## Table of Contents
-- [PFSense](#pfsense)
+- [PFSense](proc-pfsense.md)
 - [Microsoft Windows Server 2022](#server2022)
