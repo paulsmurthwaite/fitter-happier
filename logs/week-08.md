@@ -9,3 +9,6 @@ Notes on any obstacles encountered and how they were (or are being) addressed.
 
 ## Next Steps
 A quick list of what you plan to do next.
+
+***  
+[Home](../logs/index.md)
