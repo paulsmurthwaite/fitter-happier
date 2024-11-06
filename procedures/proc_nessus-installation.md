@@ -18,20 +18,20 @@ sudo systemctl enable nessusd.service
 sudo systemctl status nessusd.service
 
 browser:
-https://kali:8834
-at the warning:
-Accept the Risk and Continue
+https://kali:8834  
+at the warning:  
+Accept the Risk and Continue  
 
-At the Welcome window:
-Continue
-Select Nessus Essentials
-Continue
+At the Welcome window:  
+Continue  
+Select Nessus Essentials  
+Continue  
 
-At the activation code window:
-Skip
-Paste the code: EBBM-4MS4-2WFG-YHH3-SP37
-Continue
+At the activation code window:  
+Skip  
+Paste the code: XXXX-XXXX-XXXX-XXXX-XXXX  
+Continue  
 
-Wait for Initialisation to complete
-Nessus Essentials interface displays
-Wait for Plugins to complete compiling
+Wait for Initialisation to complete  
+Nessus Essentials interface displays  
+Wait for Plugins to complete compiling  
