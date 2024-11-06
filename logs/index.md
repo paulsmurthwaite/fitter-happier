@@ -25,4 +25,4 @@ It provides:
 [Week 11: 12-18 April 2025](log/week-11.md)  
 [Week 12: 19-25 April 2025](log/week-12.md)  
 
-[Home](/fitter-happier)
+[Home](/main)
