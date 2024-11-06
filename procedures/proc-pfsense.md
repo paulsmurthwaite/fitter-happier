@@ -14,4 +14,4 @@
 Any issues that might arise with steps and troubleshooting tips.
 
 ***
-[Home](../)|[Procedures](../procedures/index.md)
+[Home](../) | [Procedures](../procedures/index.md)
