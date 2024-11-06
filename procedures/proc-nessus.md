@@ -3,7 +3,7 @@
 ## Purpose
 
 ## Step-by-Step Instructions
-- [create an anchor](#anchors-in-markdown)
+- [create an anchor](#step-1-download-software)
 
 ### Step 1: Download Software
 
