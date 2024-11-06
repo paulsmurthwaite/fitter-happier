@@ -1,4 +1,4 @@
-# Procedure Name
+# Install and Configure Nessus Essentials
 
 ## Purpose
 
