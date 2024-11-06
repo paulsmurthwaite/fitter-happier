@@ -21,4 +21,4 @@ Each document includes:
 - [Install and Configure Greenbone Vulnerability Management](proc-openvas.md)
 
 ***  
-[Home](../)
+[Home](../README.md)

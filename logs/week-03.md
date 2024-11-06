@@ -11,4 +11,4 @@ Notes on any obstacles encountered and how they were (or are being) addressed.
 A quick list of what you plan to do next.
 
 ***
-[Home](../) | [Logs](../logs/index.md)
+[Home](../README.md) | [Logs](../logs/index.md)
