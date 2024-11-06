@@ -4,7 +4,8 @@
 A brief summary of your project goals and main components.
 
 ## Table of Contents
-Links to each major section of your log and documentation (e.g., setup, configurations, logs).
+[Configuration](/config)
+[Logs](/logs)
 [Procedures](/procedures)
 
 ## Current Status
