@@ -1,4 +1,4 @@
 # Procedures
 
-## Table of Contents
-- [PFSense](proc-pfsense.md)
+## PFSense
+- [Install and Configure PFSense](proc-pfsense.md)
