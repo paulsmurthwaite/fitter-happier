@@ -18,4 +18,4 @@
 Any issues that might arise with steps and troubleshooting tips.
 
 ***  
-[Home](/procedures)
+[Home](/procedures/index.md)
