@@ -72,7 +72,7 @@ postgresql-client-16
 
 - If removed the incorrect cluster recreate and start the correct one:
 ```
-pg_createcluster
+pg_createcluster 16 main
 ```
 ```
 sudo pg_ctlcluster 16 main start
